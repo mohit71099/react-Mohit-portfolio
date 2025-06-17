@@ -55,7 +55,7 @@ const Technologies = () => {
           <SiRedux className="text-6xl text-purple-500" />
         </motion.div>
         <motion.div
-          variants={iconVariants(5)}
+          variants={iconVariants(4)}
           initial="initial"
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
@@ -63,7 +63,7 @@ const Technologies = () => {
           <SiTailwindcss className="text-6xl text-cyan-400" />
         </motion.div>
         <motion.div
-          variants={iconVariants(4)}
+          variants={iconVariants(4.5)}
           initial="initial"
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
@@ -71,7 +71,7 @@ const Technologies = () => {
           <SiMysql className="text-6xl text-[#4479ba]" />
         </motion.div>
         <motion.div
-          variants={iconVariants(3)}
+          variants={iconVariants(3.5)}
           initial="initial"
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
