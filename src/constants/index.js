@@ -3,21 +3,23 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 //import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Passionate Frontend Developer with 2+ years of experience delivering high-performance, user-friendly web applications. Specialized in React JS, JavaScript, HTML5, CSS3, Tailwind CSS, and modern frontend frameworks like Next.js and Redux Toolkit. Proven ability to translate UI/UX designs into clean, efficient code and develop scalable components for real-time, data-driven platforms. Played a key role in developing dynamic survey interfaces and interactive web features for mobile integration. Recognized with the “Panache – Best Newcomer” award at Wipro for driving innovation and front-end excellence. Adept at thriving in Agile environments and cross-functional teams..`;
+export const HERO_CONTENT = `Passionate Frontend Developer with 3+ years of experience delivering high-performance, user-friendly web applications. Specialized in React JS, JavaScript, HTML5, CSS3, Tailwind CSS, and modern frontend frameworks like Next.js and Redux Toolkit. Proven ability to translate UI/UX designs into clean, efficient code and develop scalable components for real-time, data-driven platforms. Played a key role in developing dynamic survey interfaces and interactive web features for mobile integration. Recognized with the “Panache – Best Newcomer” award at Wipro for driving innovation and front-end excellence. Adept at thriving in Agile environments and cross-functional teams..`;
 
-export const ABOUT_TEXT = `Hi, I’m Mohit Gupta — a passionate Full Stack Developer with 2+ years of experience building scalable web applications and APIs. I specialize in backend technologies like C#, ASP.NET, Web API, and SQL, and bring strong frontend skills in HTML, CSS, JavaScript, React.js, and Tailwind CSS.
+export const ABOUT_TEXT = `Hi, I’m Mohit Gupta — a passionate Frontend and Backend Developer with 3+ years of experience building scalable web applications and RESTful APIs.
 
-At Wipro, I’ve worked on impactful healthcare projects, integrating real-time notifications, third-party APIs, and dynamic content rendering — efforts that earned me the “Panache – Best Newcomer” award in 2023. I enjoy turning complex problems into clean, user-friendly solutions and thrive in Agile environments where collaboration and learning never stop.
+I specialize in backend technologies such as C#, ASP.NET, Web API, and SQL Server, and bring strong frontend development skills in HTML5, CSS3, JavaScript, React.js, Redux, and Tailwind CSS.
 
-When I'm not coding, you'll find me exploring new tech stacks, refining UI/UX details, or contributing to personal projects like Domato and Weather-App. Let’s build something awesome together!`;
+At Wipro, I contributed to high-impact healthcare projects, integrating real-time notifications, third-party APIs, and dynamic content rendering. My efforts earned me the “Panache – Best Newcomer” award in 2023 for delivering robust, production-ready solutions.
+
+I thrive in Agile teams, enjoy solving complex problems, and focus on writing clean, reusable, and performance-optimized code. Outside of work, I explore new tech stacks, polish UI/UX design, and build personal projects like Domato and Weather-App.`;
 
 export const EXPERIENCES = [
   {
     year: "2021 - 2024",
     role: "Project Engineer",
     company: "Wipro",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Asp.net", "Javascript", "MySQL", "CSS", "HTML"],
+    description: `Experienced Frontend and Backend Developer with 3+ years in React.js, Redux, JavaScript, HTML, CSS, Tailwind CSS, C#, ASP.NET, Web API, and SQL. Built scalable web applications, integrated RESTful APIs, optimized performance, and delivered projects in Agile environments with cross-functional teams.`,
+    technologies: ["React", "Redux", "Asp.net", "Javascript", "MySQL", "CSS", "HTML"],
   }
 ];
 
